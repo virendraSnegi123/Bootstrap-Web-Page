@@ -1,0 +1,351 @@
+:root {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+/* containe 2 */
+
+.course h2 {
+    margin: 0% 0% 4% 0%;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Russo One', sans-serif;
+}
+
+.img1 {
+    margin: 0% 0% 0% 0%;
+    width: 100%;
+    height: 60%;
+    transition: all 1s ease-in-out;
+}
+
+.img1:hover {
+    transform: scale(1.1);
+}
+
+.detail h3 {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0% 0% 1% 0%;
+    text-align: center;
+    background: -webkit-linear-gradient(red, red, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Russo One', sans-serif;
+}
+
+.detail p {
+    margin: -2% 0% 0% 0%;
+    font-size: 14px;
+    text-align: center;
+}
+
+
+/* container 3 */
+
+.SAY_HELLO {
+    margin: 0% 0% 0% 0%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 336%;
+    padding: 1%;
+    height: 90%;
+    width: 100%;
+    background: #ebebeb;
+}
+
+.formweb {
+    margin: 1% 0% 0% 1%;
+    position: absolute;
+    top: 7%;
+    height: 82%;
+    WIDTH: 40%;
+    left: 7%;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0px 0px 30px 0px #5c5c5c;
+}
+
+.formweb #headingsay {
+    margin: 0% 0% -6% 0%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Russo One', sans-serif;
+}
+
+.formweb input[type=text] {
+    margin: 10% 0% 0% 0%;
+    border-bottom: #ff0000 solid 1px;
+    border-top: white solid;
+    border-right: white solid;
+    border-left: white solid;
+    WIDTH: 100%;
+}
+
+.formweb input[type=tel] {
+    margin: 5% 0% 0% 0%;
+    border-bottom: #ff0000 solid 1px;
+    border-top: white solid;
+    border-right: white solid;
+    border-left: white solid;
+    WIDTH: 100%;
+}
+
+.formweb input[type=email] {
+    margin: 5% 0% 0% 0%;
+    border-bottom: #ff0000 solid 1px;
+    border-top: white solid;
+    border-right: white solid;
+    border-left: white solid;
+    WIDTH: 100%;
+}
+
+.formweb .select1 {
+    margin: 15% 0% 0% 0%;
+    border-bottom: #ff0000 solid 1px;
+    border-top: white solid;
+    border-right: white solid;
+    border-left: white solid;
+    position: absolute;
+    left: 0%;
+    WIDTH: 100%;
+}
+
+.formweb .select2 {
+    margin: 25% 0% 0% 0%;
+    border-bottom: #ff0000 solid 1px;
+    border-top: white solid;
+    border-right: white solid;
+    border-left: white solid;
+    position: absolute;
+    left: 0%;
+    WIDTH: 100%;
+}
+
+.formweb .select3 {
+    margin: 35% 0% 0% 0%;
+    border-bottom: #ff0000 solid 1px;
+    border-top: white solid;
+    border-right: white solid;
+    border-left: white solid;
+    position: absolute;
+    left: 0%;
+    WIDTH: 100%;
+}
+
+.formweb #submit {
+    margin: 0% 0% 0% 0%;
+    height: 10%;
+    width: 20%;
+    position: absolute;
+    bottom: 1%;
+    left: 42%;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.Welcome_edu {
+    margin: 1% 1% 0% 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 7%;
+    height: 83%;
+    WIDTH: 40%;
+    right: 8%;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0px 0px 30px 0px #5c5c5c;
+}
+
+.Welcome_edu h2 {
+    margin: -47% 0% 0% 0%;
+    color: #bfbfbf;
+}
+
+.Welcome_edu h1 {
+    margin: 0% 12% 0% 0%;
+    display: flex;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: 'Russo One', sans-serif;
+}
+
+.Welcome_edu p {
+    margin: 9% 0% 0% 0%;
+    position: absolute;
+    top: 20%;
+    right: 0%;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+/* container - 4 */
+
+#container4 {
+    margin: 0% 0% 0% 0%;
+    position: absolute;
+    top: 420%;
+    left: 0%;
+}
+
+#speaker {
+    color: #d54612;
+    position: absolute;
+    top: 127%;
+    left: 7%;
+}
+
+#container4 h1 {
+    position: absolute;
+    top: 159%;
+    left: 7%;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Russo One', sans-serif;
+}
+
+#container4 h4 {
+    position: absolute;
+    top: 179%;
+    left: 7%;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Russo One', sans-serif;
+}
+
+
+/* container   5 */
+
+.container5 {
+    margin: 0% 0% 0% 0%;
+    position: absolute;
+    top: 500%;
+    left: 0%;
+    display: flex;
+    height: 70%;
+    width: 100%;
+}
+
+.container5 .box1 {
+    margin: 2% 0% 0% 2%;
+    height: 88%;
+    width: 43%;
+}
+
+.container5 .box1 h1 {
+    margin: 0%;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Russo One', sans-serif;
+}
+
+.container5 .box1 #detil_1 {
+    margin: 10% 0% 0% 0%;
+    font-size: 16px;
+    color: black;
+    border-bottom: red solid 1px;
+    padding: 14px;
+}
+
+.container5 .box1 #detil_2 {
+    margin: 2% 0% 0% 0%;
+    font-size: 16px;
+    color: black;
+    border-bottom: red solid 1px;
+    padding: 14px;
+}
+
+.container5 .box1 #detil_3 {
+    margin: 2% 0% 0% 0%;
+    font-size: 16px;
+    color: black;
+    border-bottom: red solid 1px;
+    padding: 14px;
+}
+
+.container5 .box2 {
+    margin: 2% 0% 0% 2%;
+    height: 88%;
+    width: 43%;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0px 0px 30px 0px #5c5c5c;
+}
+
+.container5 .box2 img {
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+/* container 7 */
+
+.container7 {
+    margin: 0% 0% 0% 0%;
+    position: absolute;
+    top: 580%;
+    left: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 95%;
+    width: 100%;
+    background: #ebebeb;
+}
+
+.container7 h1 {
+    font-size: 66px;
+    margin: -34% 0% 4% -60%;
+    font-weight: bold;
+    font-family: 'Russo One', sans-serif;
+}
+
+.companylogo {
+    margin: 0% 0% 0% 0%;
+    position: absolute;
+    top: 18%;
+    left: 16%;
+    width: 80%;
+}
+
+.container7 .companylogo img {
+    height: 15%;
+    width: 14%;
+    margin: 0% 10% 2% 0%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 25px 1px #5c5c5c;
+}
+
+
+/* container 8 */
+
+.container8 {
+    margin: 0% 0% 0% 0%;
+    position: absolute;
+    top: 665%;
+    left: 0%;
+    display: flex;
+    height: 75%;
+    width: 100%;
+}
+
+.container8 iframe {
+    margin: 0% 0% 0% 0%;
+}
